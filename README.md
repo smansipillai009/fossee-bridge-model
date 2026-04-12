@@ -6,12 +6,6 @@ A fully parametric, modular 3D CAD model of a short-span steel girder bridge bui
 
 ---
 
-## Preview
-
-> *(Add a screenshot here after running the model)*
-
----
-
 ## Features
 
 - **3 or more I-section steel girders** with correct `d`, `bf`, `tf`, `tw` geometry
@@ -204,7 +198,6 @@ fossee-bridge-model/
 ├── test_bridge.py        # pytest unit tests
 ├── README.md             # This file
 ├── report.pdf            # Documentation report (submitted separately)
-└── bridge_assembly.step  # Generated on --save-step (not tracked)
 ```
 
 ---
