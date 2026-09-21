@@ -262,10 +262,6 @@ bridge_model.py
 
 ---
 
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
 ---
 
 ## Author
