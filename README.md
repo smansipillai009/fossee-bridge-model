@@ -6,6 +6,9 @@ A fully parametric, modular 3D CAD model of a short-span steel girder bridge bui
 
 ---
 
+<img width="1919" height="1097" alt="Screenshot 2026-04-24 160822" src="https://github.com/user-attachments/assets/465d433c-a36c-4250-804b-2d15828c6e75" />
+
+
 ## Features
 
 - **3 or more I-section steel girders** with correct `d`, `bf`, `tf`, `tw` geometry
