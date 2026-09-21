@@ -267,7 +267,7 @@ bridge_model.py
 ## Author
 
 Mansi Pillai   
-Dept. of Mechanical Engineering 
+Dept. of Mechanical Engineering     
 IET DAAV Indore
 
 FOSSEE IITB 2026 Screening Task  
